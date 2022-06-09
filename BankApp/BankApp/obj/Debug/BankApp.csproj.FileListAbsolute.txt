@@ -1,0 +1,5 @@
+C:\Users\ersanders9750\source\repos\BankApp\BankApp\obj\Debug\BankApp.csprojResolveAssemblyReference.cache
+C:\Users\ersanders9750\source\repos\BankApp\BankApp\obj\Debug\BankApp.Form1.resources
+C:\Users\ersanders9750\source\repos\BankApp\BankApp\obj\Debug\BankApp.Properties.Resources.resources
+C:\Users\ersanders9750\source\repos\BankApp\BankApp\obj\Debug\BankApp.csproj.GenerateResource.Cache
+C:\Users\ersanders9750\source\repos\BankApp\BankApp\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
