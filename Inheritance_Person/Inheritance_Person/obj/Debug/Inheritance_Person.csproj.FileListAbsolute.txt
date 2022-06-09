@@ -1,0 +1,7 @@
+E:\Projects\C#\Inheritance_Person\Inheritance_Person\bin\Debug\Inheritance_Person.exe.config
+E:\Projects\C#\Inheritance_Person\Inheritance_Person\bin\Debug\Inheritance_Person.exe
+E:\Projects\C#\Inheritance_Person\Inheritance_Person\bin\Debug\Inheritance_Person.pdb
+E:\Projects\C#\Inheritance_Person\Inheritance_Person\obj\Debug\Inheritance_Person.csprojResolveAssemblyReference.cache
+E:\Projects\C#\Inheritance_Person\Inheritance_Person\obj\Debug\Inheritance_Person.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Inheritance_Person\Inheritance_Person\obj\Debug\Inheritance_Person.exe
+E:\Projects\C#\Inheritance_Person\Inheritance_Person\obj\Debug\Inheritance_Person.pdb
