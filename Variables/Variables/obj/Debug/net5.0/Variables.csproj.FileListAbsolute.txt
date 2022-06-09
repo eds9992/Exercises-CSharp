@@ -1,0 +1,16 @@
+C:\Data\Study\C#\Variables\Variables\bin\Debug\net5.0\Variables.exe
+C:\Data\Study\C#\Variables\Variables\bin\Debug\net5.0\Variables.deps.json
+C:\Data\Study\C#\Variables\Variables\bin\Debug\net5.0\Variables.runtimeconfig.json
+C:\Data\Study\C#\Variables\Variables\bin\Debug\net5.0\Variables.runtimeconfig.dev.json
+C:\Data\Study\C#\Variables\Variables\bin\Debug\net5.0\Variables.dll
+C:\Data\Study\C#\Variables\Variables\bin\Debug\net5.0\ref\Variables.dll
+C:\Data\Study\C#\Variables\Variables\bin\Debug\net5.0\Variables.pdb
+C:\Data\Study\C#\Variables\Variables\obj\Debug\net5.0\Variables.csproj.AssemblyReference.cache
+C:\Data\Study\C#\Variables\Variables\obj\Debug\net5.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Study\C#\Variables\Variables\obj\Debug\net5.0\Variables.AssemblyInfoInputs.cache
+C:\Data\Study\C#\Variables\Variables\obj\Debug\net5.0\Variables.AssemblyInfo.cs
+C:\Data\Study\C#\Variables\Variables\obj\Debug\net5.0\Variables.csproj.CoreCompileInputs.cache
+C:\Data\Study\C#\Variables\Variables\obj\Debug\net5.0\Variables.dll
+C:\Data\Study\C#\Variables\Variables\obj\Debug\net5.0\ref\Variables.dll
+C:\Data\Study\C#\Variables\Variables\obj\Debug\net5.0\Variables.pdb
+C:\Data\Study\C#\Variables\Variables\obj\Debug\net5.0\Variables.genruntimeconfig.cache
