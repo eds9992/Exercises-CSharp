@@ -1,0 +1,14 @@
+C:\Users\ersanders9750\source\repos\Generics_Pair\Generics_Pair\bin\Debug\Generics_Pair.exe.config
+C:\Users\ersanders9750\source\repos\Generics_Pair\Generics_Pair\bin\Debug\Generics_Pair.exe
+C:\Users\ersanders9750\source\repos\Generics_Pair\Generics_Pair\bin\Debug\Generics_Pair.pdb
+C:\Users\ersanders9750\source\repos\Generics_Pair\Generics_Pair\obj\Debug\Generics_Pair.csprojResolveAssemblyReference.cache
+C:\Users\ersanders9750\source\repos\Generics_Pair\Generics_Pair\obj\Debug\Generics_Pair.csproj.CoreCompileInputs.cache
+C:\Users\ersanders9750\source\repos\Generics_Pair\Generics_Pair\obj\Debug\Generics_Pair.exe
+C:\Users\ersanders9750\source\repos\Generics_Pair\Generics_Pair\obj\Debug\Generics_Pair.pdb
+E:\Projects\C#\Generics_Pair\Generics_Pair\bin\Debug\Generics_Pair.exe.config
+E:\Projects\C#\Generics_Pair\Generics_Pair\bin\Debug\Generics_Pair.exe
+E:\Projects\C#\Generics_Pair\Generics_Pair\bin\Debug\Generics_Pair.pdb
+E:\Projects\C#\Generics_Pair\Generics_Pair\obj\Debug\Generics_Pair.csprojResolveAssemblyReference.cache
+E:\Projects\C#\Generics_Pair\Generics_Pair\obj\Debug\Generics_Pair.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Generics_Pair\Generics_Pair\obj\Debug\Generics_Pair.exe
+E:\Projects\C#\Generics_Pair\Generics_Pair\obj\Debug\Generics_Pair.pdb

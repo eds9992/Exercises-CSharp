@@ -1,0 +1,7 @@
+C:\Users\ersanders9750\source\repos\Generics_Map_Test\Generics_Map_Test\bin\Debug\Generics_Map_Test.exe.config
+C:\Users\ersanders9750\source\repos\Generics_Map_Test\Generics_Map_Test\bin\Debug\Generics_Map_Test.exe
+C:\Users\ersanders9750\source\repos\Generics_Map_Test\Generics_Map_Test\bin\Debug\Generics_Map_Test.pdb
+C:\Users\ersanders9750\source\repos\Generics_Map_Test\Generics_Map_Test\obj\Debug\Generics_Map_Test.csprojResolveAssemblyReference.cache
+C:\Users\ersanders9750\source\repos\Generics_Map_Test\Generics_Map_Test\obj\Debug\Generics_Map_Test.csproj.CoreCompileInputs.cache
+C:\Users\ersanders9750\source\repos\Generics_Map_Test\Generics_Map_Test\obj\Debug\Generics_Map_Test.exe
+C:\Users\ersanders9750\source\repos\Generics_Map_Test\Generics_Map_Test\obj\Debug\Generics_Map_Test.pdb

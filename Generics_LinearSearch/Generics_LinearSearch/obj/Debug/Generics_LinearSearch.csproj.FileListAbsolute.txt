@@ -1,0 +1,10 @@
+c:\users\esand92\source\repos\Generics_LinearSearch\Generics_LinearSearch\bin\Debug\Generics_LinearSearch.exe.config
+c:\users\esand92\source\repos\Generics_LinearSearch\Generics_LinearSearch\bin\Debug\Generics_LinearSearch.exe
+c:\users\esand92\source\repos\Generics_LinearSearch\Generics_LinearSearch\bin\Debug\Generics_LinearSearch.pdb
+c:\users\esand92\source\repos\Generics_LinearSearch\Generics_LinearSearch\obj\Debug\Generics_LinearSearch.csprojResolveAssemblyReference.cache
+c:\users\esand92\source\repos\Generics_LinearSearch\Generics_LinearSearch\obj\Debug\Generics_LinearSearch.Form1.resources
+c:\users\esand92\source\repos\Generics_LinearSearch\Generics_LinearSearch\obj\Debug\Generics_LinearSearch.Properties.Resources.resources
+c:\users\esand92\source\repos\Generics_LinearSearch\Generics_LinearSearch\obj\Debug\Generics_LinearSearch.csproj.GenerateResource.Cache
+c:\users\esand92\source\repos\Generics_LinearSearch\Generics_LinearSearch\obj\Debug\Generics_LinearSearch.csproj.CoreCompileInputs.cache
+c:\users\esand92\source\repos\Generics_LinearSearch\Generics_LinearSearch\obj\Debug\Generics_LinearSearch.exe
+c:\users\esand92\source\repos\Generics_LinearSearch\Generics_LinearSearch\obj\Debug\Generics_LinearSearch.pdb
