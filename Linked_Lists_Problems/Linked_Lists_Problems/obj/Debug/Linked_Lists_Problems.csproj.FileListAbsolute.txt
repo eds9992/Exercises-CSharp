@@ -1,0 +1,6 @@
+c:\users\ersanders9750\source\repos\Linked_Lists_Problems\Linked_Lists_Problems\bin\Debug\Linked_Lists_Problems.exe.config
+c:\users\ersanders9750\source\repos\Linked_Lists_Problems\Linked_Lists_Problems\bin\Debug\Linked_Lists_Problems.exe
+c:\users\ersanders9750\source\repos\Linked_Lists_Problems\Linked_Lists_Problems\bin\Debug\Linked_Lists_Problems.pdb
+c:\users\ersanders9750\source\repos\Linked_Lists_Problems\Linked_Lists_Problems\obj\Debug\Linked_Lists_Problems.csproj.CoreCompileInputs.cache
+c:\users\ersanders9750\source\repos\Linked_Lists_Problems\Linked_Lists_Problems\obj\Debug\Linked_Lists_Problems.exe
+c:\users\ersanders9750\source\repos\Linked_Lists_Problems\Linked_Lists_Problems\obj\Debug\Linked_Lists_Problems.pdb

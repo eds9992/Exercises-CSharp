@@ -1,0 +1,14 @@
+E:\Projects\C#\LinkedLists\LinkedLists\obj\Debug\LinkedLists.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe.config
+E:\Projects\C#\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe
+E:\Projects\C#\LinkedLists\LinkedLists\bin\Debug\LinkedLists.pdb
+E:\Projects\C#\LinkedLists\LinkedLists\obj\Debug\LinkedLists.csprojResolveAssemblyReference.cache
+E:\Projects\C#\LinkedLists\LinkedLists\obj\Debug\LinkedLists.exe
+E:\Projects\C#\LinkedLists\LinkedLists\obj\Debug\LinkedLists.pdb
+F:\Projects\C#\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe.config
+F:\Projects\C#\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe
+F:\Projects\C#\LinkedLists\LinkedLists\bin\Debug\LinkedLists.pdb
+F:\Projects\C#\LinkedLists\LinkedLists\obj\Debug\LinkedLists.csprojResolveAssemblyReference.cache
+F:\Projects\C#\LinkedLists\LinkedLists\obj\Debug\LinkedLists.csproj.CoreCompileInputs.cache
+F:\Projects\C#\LinkedLists\LinkedLists\obj\Debug\LinkedLists.exe
+F:\Projects\C#\LinkedLists\LinkedLists\obj\Debug\LinkedLists.pdb
