@@ -1,0 +1,6 @@
+C:\Users\ersanders9750\source\repos\InsertionSortTest\InsertionSortTest\bin\Debug\InsertionSortTest.exe.config
+C:\Users\ersanders9750\source\repos\InsertionSortTest\InsertionSortTest\bin\Debug\InsertionSortTest.exe
+C:\Users\ersanders9750\source\repos\InsertionSortTest\InsertionSortTest\bin\Debug\InsertionSortTest.pdb
+C:\Users\ersanders9750\source\repos\InsertionSortTest\InsertionSortTest\obj\Debug\InsertionSortTest.csproj.CoreCompileInputs.cache
+C:\Users\ersanders9750\source\repos\InsertionSortTest\InsertionSortTest\obj\Debug\InsertionSortTest.exe
+C:\Users\ersanders9750\source\repos\InsertionSortTest\InsertionSortTest\obj\Debug\InsertionSortTest.pdb

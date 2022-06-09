@@ -1,0 +1,7 @@
+c:\users\ersanders9750\source\repos\MergeSortTest\MergeSortTest\bin\Debug\MergeSortTest.exe.config
+c:\users\ersanders9750\source\repos\MergeSortTest\MergeSortTest\bin\Debug\MergeSortTest.exe
+c:\users\ersanders9750\source\repos\MergeSortTest\MergeSortTest\bin\Debug\MergeSortTest.pdb
+c:\users\ersanders9750\source\repos\MergeSortTest\MergeSortTest\obj\Debug\MergeSortTest.csprojResolveAssemblyReference.cache
+c:\users\ersanders9750\source\repos\MergeSortTest\MergeSortTest\obj\Debug\MergeSortTest.csproj.CoreCompileInputs.cache
+c:\users\ersanders9750\source\repos\MergeSortTest\MergeSortTest\obj\Debug\MergeSortTest.exe
+c:\users\ersanders9750\source\repos\MergeSortTest\MergeSortTest\obj\Debug\MergeSortTest.pdb
